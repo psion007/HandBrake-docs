@@ -20,23 +20,9 @@ Bienvenue dans la documentation en français de HandBrake 1.3.0
 
 Voici quelques liens rapides pour débuter :
 
-- Pour démarrer rapidement avec HandBrake, aller sur [Quick start](introduction/quick-start.html)
-- To get a copy of HandBrake (*it's free!*), see [Downloading and installing HandBrake](get-handbrake/download-and-install.html)
-- A more detailed guide to using HandBrake begins with [Opening a video source](workflow/open-video-source.html)
-- Having problems? See [Troubleshooting common issues](help/troubleshooting-common-issues.html)
+- Pour démarrer rapidement avec HandBrake, aller sur [Démarrage rapide](introduction/demarrage-rapide.html)
+- Pour télécharger HandBrake (*c'est gratuit!*), voir [Télécharger et installer HandBrake](telecharger-handbrake/telecharger-et-installer.html)
+- Un guide plus détaillé pour utiliser HandBrake commence avec [Ouvrir une source vidéo](workflow/ouvrir-source-video.html)
+- Des problèmes? Voir [Résoudre  les problèmes courants](aide/resoudre-problemes-courants.html)
 
-Continue to the [Table of contents](table-of-contents.html) for a list of all available articles.
-
-Welcome
-=======
-
-Welcome to the English documentation for HandBrake 1.3.0.
-
-Here are some quick links to get you started:
-
-- To quickly get up and running with HandBrake, continue to [Quick start](introduction/quick-start.html)
-- To get a copy of HandBrake (*it's free!*), see [Downloading and installing HandBrake](get-handbrake/download-and-install.html)
-- A more detailed guide to using HandBrake begins with [Opening a video source](workflow/open-video-source.html)
-- Having problems? See [Troubleshooting common issues](help/troubleshooting-common-issues.html)
-
-Continue to the [Table of contents](table-of-contents.html) for a list of all available articles.
+Continuer vers la [Table des matières](table-des-matieres.html) pour une liste de tous les articles disponibles.
