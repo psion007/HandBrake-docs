@@ -16,15 +16,8 @@ License_URL:     https://handbrake.fr/docs/license.html
 Versions
 ========
 
-French documentation is currently available for the following HandBrake versions.
+La documentation en français est actuellement disponible pour les versions suivantes de HandBrake.
 
-Current release:
+Version actuelle :
 
 - **[HandBrake 1.3.0](1.3.0/)**
-
-Nightly and snapshot builds:
-
-
-Previous releases:
-
-
