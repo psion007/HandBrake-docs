@@ -52,7 +52,7 @@ Pour configurer le comportement de la sélection de piste, cliquez sur le bouton
   - First matching selected Language
     - Ajoute la première piste de sous-titres qui appartient à la liste des "Chosen Languages", lorsque cela est supporté par le conteneur de sortie. 
   - All matching selected languages
-   - Ajoute toutes les pistes de sous-titres qui font partie de la liste des "Chosen Languages", lorsque cela est supporté par le conteneur de sortie. 
+    - Ajoute toutes les pistes de sous-titres qui font partie de la liste des "Chosen Languages", lorsque cela est supporté par le conteneur de sortie. 
 - Burn in Behaviour
   HandBrake peut graver une piste de sous-titres sur un fichier pendant l'encodage. Il y a 3 types de comportements que vous pouvez choisir pour cette casse à cocher pour être sélectionnée automatiquement.
   - Foreign Audio Scan : Recherche audio en langue étrangère
