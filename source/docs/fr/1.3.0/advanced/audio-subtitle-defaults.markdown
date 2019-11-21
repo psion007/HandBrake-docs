@@ -48,7 +48,7 @@ Pour configurer le comportement de la sélection de piste, cliquez sur le bouton
 
 - Track Selection Behaviour
   - None
-    - Aucune piste de sous-tittres ne sera ajoutée
+    - Aucune piste de sous-titres ne sera ajoutée
   - First matching selected Language
     - Ajoute la première piste de sous-titres qui appartient à la liste des "Chosen Languages", lorsque cela est supporté par le conteneur de sortie. 
   - All matching selected languages
