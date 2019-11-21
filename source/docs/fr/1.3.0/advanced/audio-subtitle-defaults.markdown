@@ -5,23 +5,23 @@ Title:           Audio and Subtitle Defaults
 Project:         HandBrake
 Project_URL:     https://handbrake.fr/
 Project_Version: 1.3.0
-Language:        English
-Language_Code:   en
-Authors:         [ Scott (s55) ]
+Language:        French
+Language_Code:   fr
+Authors:         [ Philip Sion (psion007) ]
 Copyright:       2019 HandBrake Team
 License:         Creative Commons Attribution-ShareAlike 4.0 International
 License_Abbr:    CC BY-SA 4.0
 License_URL:     https://handbrake.fr/docs/license.html
 ---
 
-Audio and Subtitle Defaults
-=============================
+Réglages par défaut pour l'audio et les sous-titres
+===================================================
 
-HandBrake does not store Audio and Subtitle tracks in presets.
+HandBrake ne stocke pas les réglages de l'audio et des sous-titres dans les préréglages.
 
-Instead, we store behaviour rules for automatically selecting audio and subtitle tracks each time you scan a new source or select a title.
+A la place, nous stockons des règles comportementales pour sélectionner automatiquement l'audio et les sous-titres à chaque fois que vous scannez une nouvelle source ou sélectionnez un titre.
 
-In order to configure the track selection behaviour, click the "Configure Defaults" button on the Audio or Subtitle Defaults tab.
+Pour configurer le comportement de la sélection de piste, cliquez sur le bouton "Configure Defaults" dans l'onglet Audio ou Subtitle.
 
 ### Audio Defaults
 
