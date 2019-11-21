@@ -23,7 +23,7 @@ A la place, nous stockons des règles comportementales pour sélectionner automa
 
 Pour configurer le comportement de la sélection de piste, cliquez sur le bouton "Configure Defaults" dans l'onglet Audio ou Subtitle.
 
-### Audio Defaults
+### Réglages audio par défaut
 
 ![Audio Defaults Window](../../images/windows/audio-defaults-1.0.0.png "Audio Defaults Window")
 
