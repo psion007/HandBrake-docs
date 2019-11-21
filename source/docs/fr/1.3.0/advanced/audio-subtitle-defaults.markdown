@@ -1,7 +1,7 @@
 ---
 Type:            article
 State:           [ draft ]
-Title:           Audio and Subtitle Defaults
+Title:           Réglages par défaut pour l'audio et les sous-titres
 Project:         HandBrake
 Project_URL:     https://handbrake.fr/
 Project_Version: 1.3.0
