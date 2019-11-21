@@ -5,33 +5,32 @@ Title:           HandBrake History
 Project:         HandBrake
 Project_URL:     https://handbrake.fr/
 Project_Version: 1.3.0
-Language:        English
-Language_Code:   en
-Authors:         [ Scott (s55) ]
+Language:        French
+Language_Code:   fr
+Authors:         [ Philip Sion (psion007) ]
 Copyright:       2019 HandBrake Team
 License:         Creative Commons Attribution-ShareAlike 4.0 International
 License_Abbr:    CC BY-SA 4.0
 License_URL:     https://handbrake.fr/docs/license.html
 ---
 
-The History of HandBrake
-=============================
+L'histoire de HandBrake
+=======================
 
-HandBrake was started in 2003 by “titer”. He continued to be the primary developer through April 2006, when the last official Subversion revision was checked in.
+Le projet HandBrake a été lancé en 2003 par "titer". Il a continué à en être le principal développeur jusqu'en Avril 2006, lorsque la dernière révision officielle de Subversion est sortie.
 
-titer continued to be active on the forums for a short time after that, then contact was lost. Since the May/June? 2006 timeframe, nobody in HandBrake circles was been successful in communicating with titer and no further code changes were officially made.
+titer a continué à être actif sur les forums un petit moment après cela, puis le contact a été perdu. Entre Mai et Juin ? 2006, personne parmi les participants à HandBrake n'a réussi à communiquer avec titer et plus aucun changement au code n'a été officiellement réalisé.
 
-In early August 2006, development work on HandBrake resumed on an unofficial basis. “Banana” from the HandBrake forums posted a message about “HandBrake Extreme”, an optimized build of HandBrake, platform unknown.
+Début Août 2006, le développement de HandBrake a repris de façon officieuse. "Banana" des forums HandBrake posta un message à propos de "HandBrake Extreme", une version optimisée de HandBrake, sur une plateforme inconnue.
 
-Starting September 2006, Rodney Hester and Chris Long were independently working to reverse-engineer Apple’s new 640×480 H.264 iPod firmware 1.2 format and came together on the forums. Fortunately, their work complemented each other’s, and they banded together to put together an unstable but compilable release of HandBrake supporting the new format (including Apple’s new uuid atom).
+Depuis Septembre 2006, Rodney Hester et Chris Long ont travaillé de façon indépendante pour reverse-enginérer le format du firmware 1.2 du nouvel iPod 640×480 H.264 d'Apple et sont venus sur les forums. Par chance, leurs travaux ont été complémentaires, et ils se sont associés pour proposer une version instable mais compilable de HandBrake supportant ce nouveau format (incluant le nouvel atome uuid d'Apple).
 
-Since then, considerable progress has been made in terms of stability, functionality, and look-and-feel. Unfortunately, it was not possible to check changes into the m0k Subversion repository for HandBrake without prior authorization, which couldn’t be obtained without permission and a reply from titer, which we had not received.
+Depuis, des progrès considérables ont été réalisés en termes de stabilité, de fonctionnalités et d'ergonomie. Malheureusement, il n'était pas possible de vérifier les changements dans le dépôt Subversion de m0k sans autorisation préalable, qui ne pouvait être obtenu sans la permission et la réponse de titer, que nous n'avions pas reçue.
 
-As a result, Rodney Hester created a subversion repository mirroring the 0.7.1 and final Subversion trees from the official HandBrake site and we began building our changes on top of that. This site, along with the development forum, were created to support those efforts.
+Par conséquent, Rodney Hester a créé un dépôt subeversion reflétant la version 0.7.1 ainsi que la version finale des arbres subversion à partir du site officiel de HandBrake et nous avons commencé à faire nos changements dessus. Ce site, ainsi que le forum de développement, ont été créés pour soutenir ces efforts.
 
-As of January 26, 2007, our HandBrake fork was officially known as MediaFork.
+Le 26 Janvier 2007, notre fork de HandBrake a été officiellement connu sous le nom de MediaFork.
 
-On February 13, 2007, we finally heard from titer, who was fully in support of our work and encouraged us to continue. We laid plans to reintegrate our projects under the HandBrake banner, relocated our web services to m0k.org, and as of March 2, 2007, all developer and end-user servers had returned to m0k.org. The next code release was officially named HandBrake and will remain so going forward.
+Le 13 Février 2007, nous avons finalement eu des nouvelles de titer, qui nous a assistés et encouragés à continuer. Nous avons planifié de réintégrer nos projets sous la bannière de HandBrake, replacé nos services web sur m0k.org, et le 2 Mars 2007, tous les serveurs des développeurs et des utilisateurs finaux étaient retournés sur m0k.org. La version de code suivante a été officiellement nommée HandBrake et restera ainsi dans le futur.
 
-Today, HandBrake is hosted by titer and the development team remains in contact; however, he is not active in the day-to-day running or development of the project.
-
+Aujourd'hui, HandBrake est hébergé par titer et l'équipe de développement reste en contact. Cependant, il n'est pas actif dans le fonctionnement courant ou dans le développement du projet.
