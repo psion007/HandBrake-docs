@@ -18,33 +18,33 @@ Table des matières
 
 ## Introduction
 
-- [Démarrage rapide](introduction/demarrage-rapide.html)
+- [Démarrage rapide](introduction/quick-start.html)
   *Apprenez comment faire votre première vidéo en quelques minutes*
-- [A propos de HandBrake](introduction/a-propos.html)
+- [A propos de HandBrake](introduction/about.html)
   *Ce qu'est HandBrake, ce qu'il fait, et ce qu'il ne fait pas*
 
 
 ## Télécharger HandBrake
 
-- [Sur quel site télécharger HandBrake](telecharger-handbrake/ou-telecharger-handbrake.html)
+- [Sur quel site télécharger HandBrake](get-handbrake/where-to-get-handbrake.html)
   *La version officiellement supportée*
-- [Télécharger et installer HandBrake](telecharger-handbrake/telecharger-et-installer.html)
+- [Télécharger et installer HandBrake](get-handbrake/download-and-install.html)
   *Comment avoir HandBrake sur votre ordinateur*
-- [Vérifier les mises à jour](telecharger-handbrake/verifier-les-mises-a-jour.html)
+- [Vérifier les mises à jour](get-handbrake/check-for-updates.html)
   *Rester à jour avec les dernières fonctionnalités et corrections de bugs*
 
 
 ## Faire des videos
 
-- [Ouvrir un fichier vidéo source](workflow/ouvrir-video-source.html)
+- [Ouvrir un fichier vidéo source](workflow/open-video-source.html)
   *Comment ouvrir vos vidéos avec HandBrake*
-- [Choisir un préréglage](workflow/choisir-prereglage.html)
+- [Choisir un préréglage](workflow/select-preset.html)
   *Réglages conçus pour la compatibilité immédiate avec de nombreux appareils*
-- [Régler la qualité](workflow/regler-qualite.html)
+- [Régler la qualité](workflow/adjust-quality.html)
   *Améliorer la qualité visuelle facilement ou réduire la taille du fichier*
-- [Prévisualiser vos réglages](workflow/previsualiser-reglages.html)
+- [Prévisualiser vos réglages](workflow/preview-settings.html)
   *Voir ce à quoi ressemblera votre nouvelle vidéo en une fraction de seconde*
-- [Démarrer l'encodage](workflow/demarrer-encodage.html)
+- [Démarrer l'encodage](workflow/start-encoding.html)
   *Démarrer l'encodage de votre nouvelle vidéo en un clic*
 
 
@@ -52,13 +52,13 @@ Table des matières
 
 - [Utiliser la queue](avancees/queue.html)
   *Programmer plusieurs travaux d'encodage à la fois*
-- [Encodage point à point encoding](avancees/point-a-point.html)<span class="notice draft"><span>draft</span></span>
-- [Préréglages personnalisés](avancees/prereglages-personnalises.html)<span class="notice draft"><span>draft</span></span>
-- [Réglages par défaut audio et sous-titres](avancees/audio-sous-titre-defaut.html)<span class="notice draft"><span>draft</span></span>
-- [Retailler une vidéo](avancees/retailler-video.html)<span class="notice draft"><span>draft</span></span>
-- [Conserver le son multicanal](avancees/son-multicanal.html)<span class="notice draft"><span>draft</span></span>
-- [Ajouter des sous-titres](avancees/sous-titres.html)<span class="notice draft"><span>draft</span></span>
-- [Ajouter des chapitres](avancees/chapitres.html)<span class="notice draft"><span>draft</span></span>
+- [Encodage point à point encoding](advanced/point-to-point.html)<span class="notice draft"><span>draft</span></span>
+- [Préréglages personnalisés](advanced/custom-presets.html)<span class="notice draft"><span>draft</span></span>
+- [Réglages par défaut audio et sous-titres](advanced/audio-subtitle-defaults.html)<span class="notice draft"><span>draft</span></span>
+- [Retailler une vidéo](advanced/resizing-video.html)<span class="notice draft"><span>draft</span></span>
+- [Conserver le son multicanal](advanced/surround-sound.html)<span class="notice draft"><span>draft</span></span>
+- [Ajouter des sous-titres](advanced/subtitles.html)<span class="notice draft"><span>draft</span></span>
+- [Ajouter des chapitres](advanced/chapter-markers.html)<span class="notice draft"><span>draft</span></span>
 
 <!-- - [Managing Audio Tracks](advanced/managing-audio.html) -->
 <!-- - [Post-processing metadata](advanced/post-processing.html) -->
@@ -97,59 +97,59 @@ Table des matières
 
 ## Getting help
 
-- [Résoudre les problèmes standards](aide/resoudre-problemes-standards.html)
+- [Résoudre les problèmes standards](help/troubleshooting-common-issues.html)
   *Que faire si quelque chose ne va pas*
-- [Aide de la communauté](aide/communaute.html)
+- [Aide de la communauté](help/community-support.html)
   *Obtenir de l'aide de vraies personnes*
-- [Journal d'activité](aide/journal-activite.html)
+- [Journal d'activité](help/activity-log.html)
   *Le journal d'activité vous permet d'obtenir une aide plus adaptée*
 
 
 ## Plus d'information
 
-- [Histoire du projet](a-propos/histoire.html)<span class="notice draft"><span>draft</span></span>
-- [Contribuer](contribuer/contribuer.html)
+- [Histoire du projet](about/history.html)<span class="notice draft"><span>draft</span></span>
+- [Contribuer](contributing/contribute.html)
   *Comment vous pouvez participer*
 
 ## Documentation de la ligne de commande
 
-- [Reference des commandes](ligne-de-commande/ligne-de-commande-reference.html)
-- [Liste des options de la ligne de commande](ligne-de-commande/ligne-de-commande-options.html)<span class="notice draft"><span>draft</span></span>
+- [Reference des commandes](cli/command-line-reference.html)
+- [Liste des options de la ligne de commande](cli/cli-options.html)<span class="notice draft"><span>draft</span></span>
 
 
 ## Documentation technique
 
-- [Prérequis système](technique/prerequis-systeme.html)
+- [Prérequis système](technical/system-requirements.html)
   *Assurez-vous que votre système peut faire fonctionner HandBrake correctement*
-- [Formats source supportés](technique/formats-source.html)
+- [Formats source supportés](technical/source-formats.html)
   *Types de fichiers vidéo qu'HandBrake est capable de lire*
-- [Préréglages officiels](technique/prereglages-officiels.html)
+- [Préréglages officiels](technical/official-presets.html)
   *Résumé technique des préréglages officiels*
-- [Performance](technique/performance.html)
+- [Performance](technical/performance.html)
   *Comment les différents réglages impactent la vitesse d'encodage*
 - Vidéo
-  - [Codecs vidéo](technique/codecs-video.html)<span class="notice draft"><span>draft</span></span>
-  - [Qualité constante ou débit moyen](technique/qc-video-ou-dm.html)<span class="notice draft"><span>draft</span></span>
-  - [Préréglages et modifications](technique/prereglages-video-modifications.html)<span class="notice draft"><span>draft</span></span>
-  - [Profils et niveaux](technique/profils-video-niveaux.html)<span class="notice draft"><span>draft</span></span>
+  - [Codecs vidéo](technical/video-codecs.html)<span class="notice draft"><span>draft</span></span>
+  - [Qualité constante ou débit moyen](technical/video-cq-vs-abr.html)<span class="notice draft"><span>draft</span></span>
+  - [Préréglages et modifications](technical/video-presets-tunes.html)<span class="notice draft"><span>draft</span></span>
+  - [Profils et niveaux](technical/video-profiles-levels.html)<span class="notice draft"><span>draft</span></span>
   - [Angles vidéo](technical/video-angles.html)<span class="notice draft"><span>draft</span></span>
-  - [Vidéo anamorphique](technique/guide-anamorphique.html)<span class="notice draft"><span>draft</span></span>
-  - [Module](technique/module.html)<span class="notice draft"><span>draft</span></span>
-  - [Nombre d'images par seconde](technique/frame-rates.html)<span class="notice draft"><span>draft</span></span>
+  - [Vidéo anamorphique](technical/anamorphic-guide.html)<span class="notice draft"><span>draft</span></span>
+  - [Module](technical/modulus.html)<span class="notice draft"><span>draft</span></span>
+  - [Nombre d'images par seconde](technical/frame-rates.html)<span class="notice draft"><span>draft</span></span>
 - Encodeurs matériels
   - [AMD VCE](technical/video-vce.html)
   - [Apple VideoToolbox](technical/video-videotoolbox.html)
   - [Intel QuickSync Video](technical/video-qsv.html)
   - [Nvidia Nvenc](technical/video-nvenc.html)
 - Audio
-  - [Compression de la plage dynamique](technique/compression-plage-dynamique.html)<span class="notice draft"><span>draft</span></span>
-  - [Qualité audio](technique/qualite-audio.html)<span class="notice draft"><span>draft</span></span>
+  - [Compression de la plage dynamique](technical/dynamic-range-compression.html)<span class="notice draft"><span>draft</span></span>
+  - [Qualité audio](technical/audio-quality.html)<span class="notice draft"><span>draft</span></span>
 - Fichiers et compatibilité
-  - [Formats de conteneurs](technique/conteneurs.html)<span class="notice draft"><span>draft</span></span>
-  - [Support de l'iPod de 5ème génération](technique/support-ancien-ipod.html)<span class="notice draft"><span>draft</span></span>
-  - [Nommage automatique de fichiers](technique/nommage-automatique-fichier.html)<span class="notice draft"><span>draft</span></span>
+  - [Formats de conteneurs](technical/containers.html)<span class="notice draft"><span>draft</span></span>
+  - [Support de l'iPod de 5ème génération](technical/old-ipod-support.html)<span class="notice draft"><span>draft</span></span>
+  - [Nommage automatique de fichiers](technical/automatic-file-naming.html)<span class="notice draft"><span>draft</span></span>
 - Filtres
-  - [Résumé des filtres](technique/resume-filtres.html)<span class="notice draft"><span>draft</span></span>
+  - [Résumé des filtres](technical/filters-summary.html)<span class="notice draft"><span>draft</span></span>
 
 <!--
 - [Web optimized](technical/web-optimised.html)
@@ -161,12 +161,12 @@ Table des matières
 ## Documentation pour les développeurs
 
 - Compiler HandBrake
-  - [Compiler HandBrake pour BSD](developpeur/compiler-bsd.html)
-    - Installer les dépendances sur [FreeBSD](developpeur/installer-dependances-freebsd.html)
-  - [Compiler HandBrake pour Linux](developpeur/compiler-linux.html)
-    - Installer les  dépendances sur [Arch](developpeur/installer-dependances-arch.html) / [CentOS](developpeur/installer-dependances-centos.html) / [Clear](developpeur/installer-dependances-clear.html) / [Debian](developpeur/installer-dependances-debian.html) / [Fedora](developpeur/installer-dependances-fedora.html) / [Gentoo](developpeur/installer-dependances-gentoo.html) / [Ubuntu](developpeur/installer-dependences-ubuntu.html)
-  - [Compiler HandBrake pour Mac](developpeur/compiler-mac.html)
-  - [Compiler HandBrake pour Windows](developpeur/compiler-windows.html)
+  - [Compiler HandBrake pour BSD](developer/build-bsd.html)
+    - Installer les dépendances sur [FreeBSD](developer/install-dependencies-freebsd.html)
+  - [Compiler HandBrake pour Linux](developer/build-linux.html)
+    - Installer les  dépendances sur [Arch](developer/install-dependencies-arch.html) / [CentOS](developer/install-dependencies-centos.html) / [Clear](developer/install-dependencies-clear.html) / [Debian](developer/install-dependencies-debian.html) / [Fedora](developer/install-dependencies-fedora.html) / [Gentoo](developer/install-dependencies-gentoo.html) / [Ubuntu](developer/install-dependencies-ubuntu.html)
+  - [Compiler HandBrake pour Mac](developer/build-mac.html)
+  - [Compiler HandBrake pour Windows](developer/build-windows.html)
 - Packager HandBrake
-  - [Applications Flatpak pour Linux](developpeur/flatpak-repo.html)<span class="notice draft"><span>draft</span></span>
+  - [Applications Flatpak pour Linux](developer/flatpak-repo.html)<span class="notice draft"><span>draft</span></span>
     *Applications completes compatibles avec de multiples distributions Linux*
