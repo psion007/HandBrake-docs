@@ -25,24 +25,23 @@ Sur HandBrake, si vous cliquez sur l'onglet "Chapters", vous verrez une liste de
 
 ![Chapters Tab](../../images/windows/chapters-1.0.0.png "Chapters Tab")
 
-## Renaming chapters
+## Renommer les chapitres
 
-If you wish, you can rename these by simply simply altering the names shown in the chapters tab.
+Si vous le souhaitez, vous pouvez les renommer simplement en changeant les noms affichés dans l'onglet "Chapters".
 
-You can also import or export the set of chapter markers. HandBrake supports importing of CSV (Command seperated Values) files.
+Vous pouvez aussi importer ou exporter un ensemble de marqueurs de chapitre. HandBrake accepte l'importation de fichiers CSV (Comma Separated Values - Valeurs séparées par des point-virgules
 
-Click the Import button to choose a CSV file. The file must be in the following format:
-
+Cliquez sur le bouton "Import" pour choisir un fichier CSV. Le fichier doit être au format suivant :
 
 ```
-1,Chapter Name
-2,Chapter 2 Name
-3,Chapter 3 Name
+1,Nom du 1er chapitre
+2,Nom du 2ème chapitre
+3,Nom du 3ème chapitre
 ....
 ```
 
-Finally, you can export the current chapter list to CSV format by clicking the 'export' button.
+Vous pouvez aussi exporter la liste des chapitres en cours au format CSV en cliquant sur le bouton "Export".
 
-## Sources without chapters
+## Sources sans chapitres
 
-Unfortunately, HandBrake can not currently add chapter markers if they did not already exist in the source.
+Malheureusement, HandBrake ne peut actuellement pas ajouter de marqueurs de chapitres s'ils n'existent pas déjà dans la source.
