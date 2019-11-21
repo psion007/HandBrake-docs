@@ -29,38 +29,38 @@ Pour configurer le comportement de la sélection de piste, cliquez sur le bouton
 
 - Track Selection Behaviour
   - None
-    - No audio tracks will be automatically added.
+    - Aucune piste audio ne sera ajoutée automatiquement.
   - First matching selected Language
-    - The first track that matches the each of the languages in the "Chosen Languages", otherwise the first track will be selected.
+    - Ajoute la première piste qui fait partie de la liste des "Chosen Languages", ou sinon la première piste sera sélectionnée.
   - All matching selected languages
-    - All the tracks that match the "Chosen Languages".
+    - Ajoute toutes les pistes qui font partie de la liste des "Chosen Languages".
 - Choose Languages
-  - Move any languages you are interested in into the "Chosen Languages" list in order to have tracks selected based on the track selection behaviour.
+  - Déplace les langues qui vous intéressent dans la liste des "Chosen Languages" afin de pouvoir sélectionner automatiquement les pistes à l'aide de la sélection de piste comportementale.
 - Auto Passthru
-  - HandBrake can pass thru several different audio formats. There are separate options the audio encoder dropdown for these. When you select "Auto Passthru", it will pass thru any of those supported types.  You can limit what it will automatically passthru. For example, if you only ever want AC3 or DTS passthru, but not any of the other choices, untick the relevant checkboxes.
+  - HandBrake peut préserver plusieurs formats audio (pass-through). Il y a différentes options dans le sélecteur de l'encodeur audio pour cela. Lorsque vous sélectionnez "Auto Passthru", il recopiera sans modifications tous les formats supportés. Vous pouvez limiter ce qu'il recopiera automatiquement. Par exemple, si vous souhaitez seulement conserver l'AC3 et le DTS "tel quel", mais aucun des autres choix, décochez les cases à cocher correspondantes.
   
 - Fallback Encoder
-  - When you have a passthru encoder selected, if the source track format does not match this format, HandBrake will automatically re-encode the track. The fallback encoder is the default encoder it will fallback to.  
-
-### Subtitle Defaults
+  - Lorsque vous avez sélectionné un encodage sans modification mais que le format de la piste ne correspond pas à ce format, HandBrake réencodera automatiquement la piste. L'encodeur "de rechange" (fallback encoder) est l'encodeur sur lequel HandBrake basculera par défaut.
+  
+### Sous-titres par défaut
 
 ![Subtitle Defaults Window](../../images/windows/subtitle-defaults-1.0.0.png "Subtitle Defaults Window")
 
 - Track Selection Behaviour
   - None
-    - No subtitle tracks will be added
+    - Aucune piste de sous-tittres ne sera ajoutée
   - First matching selected Language
-    - The first subtitle track for each "Chosen Language" will be added, where supported by the output container. 
+    - Ajoute la première piste de sous-titres qui appartient à la liste des "Chosen Languages", lorsque cela est supporté par le conteneur de sortie. 
   - All matching selected languages
-   - All subtitle track(s) for each "Chosen Language" will be added, where supported by the output container. 
+   - Ajoute toutes les pistes de sous-titres qui font partie de la liste des "Chosen Languages", lorsque cela est supporté par le conteneur de sortie. 
 - Burn in Behaviour
-  HandBrake can burn in 1 subtitle track to an encoded file. There are 3 behavioural options you can choose from for this checkbox to be automatically selected.
-  - Foreign Audio Scan
-  - First Track
-  - Foreign Audio Preferred, else first
+  HandBrake peut graver une piste de sous-titres sur un fichier pendant l'encodage. Il y a 3 types de comportements que vous pouvez choisir pour cette casse à cocher pour être sélectionnée automatiquement.
+  - Foreign Audio Scan : Recherche audio en langue étrangère
+  - First Track : Première piste
+  - Foreign Audio Preferred, else first : Recherche audio en langue étrangère, sinon première piste
 - Choose Languages
-  - Move any languages you are interested in into the "Chosen Languages" list in order to have tracks selected based on the track selection behaviour.
+  - Déplace les langues qui vous intéressent dans la liste des "Chosen Languages" afin de pouvoir sélectionner automatiquement les pistes à l'aide de la sélection de piste comportementale.
 - Add Closed Captions when available
-  - Close captions are text based subtitles supported by both MP4 and MKV. If you select this option, HandBrake will automatically copy them to the output file.
+  - Les "Close captions" sont des sous-titres au format texte supportés par les fichiers MP4 et MKV. Si vous sélectionnez cette option, HandBrake les copiera automatiquement dans le fichier de sortie.
 - Add Foreign Audio Scan
-  - HandBrake can perform a scan of the source title / file to try and detect if there is a portions of a title that are in a foreign language. If it detects one, it will add the subtitle track automatically. 
+  - HandBrake réalisera un scan du titre / du fichier source pour essayer de détecter s'ils y a des portions du titres qui sont dans une langue étrangère. S'il en détecte une, il ajoutera la piste de sous-titres automatiquement. 
