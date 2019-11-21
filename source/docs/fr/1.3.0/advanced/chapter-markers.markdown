@@ -1,27 +1,27 @@
 ---
 Type:            article
 State:           [ draft ]
-Title:           Chapter Markers
+Title:           Chapitrage
 Project:         HandBrake
 Project_URL:     https://handbrake.fr/
 Project_Version: 1.3.0
-Language:        English
-Language_Code:   en
-Authors:         [ Scott (s55) ]
+Language:        French
+Language_Code:   fr
+Authors:         [ Philip Sion (psion007) ]
 Copyright:       2019 HandBrake Team
 License:         Creative Commons Attribution-ShareAlike 4.0 International
 License_Abbr:    CC BY-SA 4.0
 License_URL:     https://handbrake.fr/docs/license.html
 ---
 
-Chapter Markers
-===============
+Chapitrage
+==========
 
-## Chapters
+## Chapitres
 
-HandBrake can copy chapter markers from your source to the MP4, MKV, or WebM output file.
+HandBrake peut copier les marqueurs de chapitres à partir de votre source vers un fichier de sortie MP4, MKV ou WebM.
 
-In HandBrake, if you click on the Chapters tab, you'll see a list of detected chapters. HandBrake will automatically generate chapter names in the following format:  "Chatper n" where n is the chapter number.
+Sur HandBrake, si vous cliquez sur l'onglet "Chapters", vous verrez une liste des chapitres détectés. HandBrake générera automatiquement les noms de chapitre au format suivant : "Chapter n" avec n étant le numéro du chapitre.
 
 ![Chapters Tab](../../images/windows/chapters-1.0.0.png "Chapters Tab")
 
